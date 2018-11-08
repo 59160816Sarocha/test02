@@ -22,7 +22,7 @@
    <option>คณะวิทยาการสารสนเทศ - เทคโนโลยีสารสนเทศ</option>
    <option>คณะวิทยาการสารสนเทศ - วิทยาการคอมพิวเตอร์</option>
    <option>คณะวิทยาการสารสนเทศ - วิศวกรรมซอฟต์แวร์</option>
-</select><br><br>
+</select><br>
 หมายเหตุ
 <textarea name="comment" rows="1" cols="50"></textarea><br>
 <input type="submit" value = "submit">
