@@ -1,5 +1,5 @@
 {
-    "remotePath": "/home/BUU/59160816/test_1/testtt ",
+    "remotePath": "/home/BUU/59160816/public_html/test",
     "host": "angsila.cs.buu.ac.th",
     "username": "59160816",
     "password": "1036219hazanah",
@@ -19,6 +19,6 @@
     "generatedFiles": {
         "uploadOnSave": true,
         "extensionsToInclude": [],
-        "path": "/home/BUU/59160816/test_1/testtt"
+        "path": " /home/BUU/59160816/public_html/test"
     }
 }
